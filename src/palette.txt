@@ -1,0 +1,13 @@
+/* Coolors Exported Palette - https://coolors.co/f1e4e8-e2dcde-ceb1be-b97375-2d2d34 */
+
+/* CSV */
+f1e4e8,e2dcde,ceb1be,b97375,2d2d34
+
+/* Array */
+["f1e4e8","e2dcde","ceb1be","b97375","2d2d34"]
+
+/* Object */
+{"Lavender Blush":"f1e4e8","Gainsboro":"e2dcde","Thistle":"ceb1be","Old Rose":"b97375","Raisin Black":"2d2d34"}
+
+/* Extended Array */
+[{"name":"Lavender Blush","hex":"f1e4e8","rgb":[241,228,232],"cmyk":[0,5,4,5],"hsb":[342,5,95],"hsl":[342,32,92],"lab":[92,5,0]},{"name":"Gainsboro","hex":"e2dcde","rgb":[226,220,222],"cmyk":[0,3,2,11],"hsb":[340,3,89],"hsl":[340,9,87],"lab":[88,2,0]},{"name":"Thistle","hex":"ceb1be","rgb":[206,177,190],"cmyk":[0,14,8,19],"hsb":[333,14,81],"hsl":[333,23,75],"lab":[75,13,-3]},{"name":"Old Rose","hex":"b97375","rgb":[185,115,117],"cmyk":[0,38,37,27],"hsb":[358,38,73],"hsl":[358,33,59],"lab":[56,28,11]},{"name":"Raisin Black","hex":"2d2d34","rgb":[45,45,52],"cmyk":[13,13,0,80],"hsb":[240,13,20],"hsl":[240,7,19],"lab":[19,2,-4]}]
